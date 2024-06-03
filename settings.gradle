@@ -1,0 +1,5 @@
+rootProject.name = 'code_manipulation_demo'
+include 'custom_lombok'
+include 'application'
+include 'code_creation'
+
